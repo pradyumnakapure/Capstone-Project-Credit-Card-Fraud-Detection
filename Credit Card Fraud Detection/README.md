@@ -1,4 +1,4 @@
-# Capstone-Project-Credit-Card-Fraud-Detection-Final-Submission
+# Capstone-Project-Credit-Card-Fraud-Detection
 
 With the rising number of fraud cases, the company’s major focus is to provide its customers with a delightful experience while ensuring that security is not compromised.
 
